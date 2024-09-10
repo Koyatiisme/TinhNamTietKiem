@@ -29,7 +29,8 @@ namespace WebApplication1
 
                 Lib_TinhTK.TinhSoNam thang;         
                 thang = new Lib_TinhTK.TinhSoNam();  
-                thang.s = s;                
+                thang.s = s;      
+                thang.t = t;
                 thang.p = p;
                 thang.TinhThang();           
 
