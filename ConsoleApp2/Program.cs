@@ -29,8 +29,9 @@ namespace ConsoleApp2
             {
                 s += s * (0.01f * p);
                 n++;
-                return true;
+                
             }
+            return true;
         }
     }
 }
