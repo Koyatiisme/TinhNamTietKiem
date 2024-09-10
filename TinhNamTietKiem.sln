@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinhNamTietKiem", "TinhNamT
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lib_TinhTK", "Lib_TinhTK\Lib_TinhTK.csproj", "{6190BBDD-1807-4D45-A86F-A027A6277C2B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp2", "ConsoleApp2\ConsoleApp2.csproj", "{03A48C02-3CD3-45F2-AD2D-AE37993C8021}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6190BBDD-1807-4D45-A86F-A027A6277C2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6190BBDD-1807-4D45-A86F-A027A6277C2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6190BBDD-1807-4D45-A86F-A027A6277C2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03A48C02-3CD3-45F2-AD2D-AE37993C8021}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03A48C02-3CD3-45F2-AD2D-AE37993C8021}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03A48C02-3CD3-45F2-AD2D-AE37993C8021}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03A48C02-3CD3-45F2-AD2D-AE37993C8021}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
